@@ -9,4 +9,4 @@ bool undocked
 geometry_msgs/PoseStamped dock_pose
 
 # Plus the control output
-geometry_msgs/Twist command
+geometry_msgs/TwistStamped command
